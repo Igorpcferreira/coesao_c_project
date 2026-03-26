@@ -175,7 +175,3 @@ Caso o professor ou a dupla queira evoluir o projeto, algumas extensões possív
 - geração de relatórios em arquivo
 
 ---
-
-## Autor
-
-Projeto preparado para fins acadêmicos, com foco em clareza conceitual, boa organização e facilidade de apresentação.
