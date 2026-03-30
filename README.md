@@ -298,6 +298,7 @@ Como extensão futura, o projeto poderia receber melhorias como:
 - menu interativo no terminal
 
 ---
+<<<<<<< HEAD
 
 ## Conclusão
 
@@ -306,3 +307,5 @@ O projeto atende à proposta da atividade ao demonstrar, de forma objetiva e pr�
 Além de ilustrar os conceitos teóricos, a implementação também evidencia a importância de organizar o código em módulos bem definidos, com responsabilidades claras e fluxo de execução fácil de entender.
 
 ---
+=======
+>>>>>>> ec79e5dc5c6317c7979f1094e7c007a8c71b9513
